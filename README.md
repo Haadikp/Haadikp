@@ -216,7 +216,7 @@ print(hadi.say_hi())
 
 ---
 
-## 🎨 Fun Facts
+## 🎨 Some Facts
 
 - 🧮 **Mathematics Background**: My BSc in Mathematics gives me a strong foundation for data science
 - 🏆 **UGC NET Qualified**: Ready to contribute to academic research and teaching
