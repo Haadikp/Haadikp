@@ -13,8 +13,12 @@
 
 <div align="center">
   <h3>
-    🎓 MCA Graduate | 🧮 BSc Mathematics | 🏆 UGC NET Qualified for CS
+    📊 Data Scientist | 🎓 MCA Graduate | 🧮 BSc Mathematics | 🏆 UGC NET Qualified for CS
   </h3>
+  <h4>
+    Intern at Sabudh Foundation
+  </h4>
+
   <p>
     <strong>📍 Malappuram, Kerala, India</strong>
   </p>
