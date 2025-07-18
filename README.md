@@ -34,7 +34,7 @@ class HadiKP:
             "previous": "BSc Mathematics (2023) - CGPA: 7.1/10"
         }
         self.achievements = ["UGC NET Qualified for Assistant Professor"]
-        self.location = "Kozhikode, Kerala, India"
+        self.location = "Malappuram, Kerala, India"
         self.interests = [
             "Data Science & Machine Learning",
             "Software Development",
