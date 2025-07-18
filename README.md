@@ -7,12 +7,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Haadikp&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Haadikp?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat-square&logo=github" alt="Portfolio" />
+  <img src="[https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat-square&logo=github](https://haadikp.github.io/Portfolio/)" alt="Portfolio" />
 </p>
 
 <div align="center">
   <h3>
-    🎓 MCA Graduate | 🧮 BSc Mathematics | 🏆 UGC NET Qualified
+    🎓 MCA Graduate | 🧮 BSc Mathematics | 🏆 UGC NET Qualified for CS
   </h3>
   <p>
     <strong>📍 Kozhikode, Kerala, India</strong>
@@ -58,7 +58,7 @@ print(hadi.say_hi())
 ## 🎯 What I Do
 
 - 🔬 **Data Science & Analytics**: Passionate about extracting insights from data
-- 💻 **Full Stack Development**: Building end-to-end web applications
+- 💻 **Software Engineer**: Building scalable and efficient softwares
 - 🤖 **Machine Learning**: Developing intelligent systems and models
 - 🧠 **Research**: UGC NET qualified, interested in academic research
 - 📚 **Continuous Learning**: Always exploring new technologies and methodologies
@@ -116,7 +116,6 @@ print(hadi.say_hi())
 - **🎓 Master of Computer Applications (MCA)** - *2025*
   - Rajiv Gandhi Institute of Technology, Kottayam
   - CGPA: 7.95/10
-  - Focus: Software Engineering & Data Science
 
 - **🧮 Bachelor of Science in Mathematics** - *2023*
   - Sullamussalam Arts and Science College, Areekode
@@ -197,7 +196,7 @@ print(hadi.say_hi())
   <a href="https://linkedin.com/in/hadi-kp">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:hadikp@example.com">
+  <a href="mailto:hadikpkuniyil@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -234,13 +233,11 @@ print(hadi.say_hi())
 ---
 
 <div align="center">
-  <sub>⭐️ From <a href="https://github.com/Haadikp">Hadi KP</a> | 🎯 Aspiring Data Scientist | 🏆 UGC NET Qualified</sub>
+  <sub>⭐️ From <a href="https://github.com/Haadikp">Hadi KP</a> | 🎯 Aspiring Data Scientist | 🏆 UGC NET Qualified for CS</sub>
 </div>
 
 <div align="center">
   
-**📊 Visitor Count**
-  
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Haadikp.Haadikp)
+
 
 </div>
