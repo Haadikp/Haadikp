@@ -1,21 +1,22 @@
 # 👋 Hi there, I'm Hadi KP!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;MCA+Graduate+%7C+BSc+Mathematics;UGC+NET+Qualified;Python+%26+Machine+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;MCA+Graduate+%7C+BSc+Mathematics;UGC+NET+Qualified+for+CS;Python+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Haadikp&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Haadikp?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="[https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat-square&logo=github](https://haadikp.github.io/Portfolio/)" alt="Portfolio" />
-</p>
+  <a href="https://haadikp.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat-square&logo=github" alt="Portfolio" />
+  </a>
 
 <div align="center">
   <h3>
     🎓 MCA Graduate | 🧮 BSc Mathematics | 🏆 UGC NET Qualified for CS
   </h3>
   <p>
-    <strong>📍 Kozhikode, Kerala, India</strong>
+    <strong>📍 Malappuram, Kerala, India</strong>
   </p>
 </div>
 
