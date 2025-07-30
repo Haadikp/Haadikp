@@ -1,77 +1,64 @@
-<div align="center">Show Image</div>
+# 👋 Hi there, I'm Hadi KP!
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;MCA+Graduate+%7C+BSc+Mathematics+%F0%9F%8E%93;UGC+NET+Qualified+for+CS+%F0%9F%8F%86;Python+%26+Machine+Learning+Enthusiast+%F0%9F%90%8D;Building+the+Future+with+Data+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;MCA+Graduate+%7C+BSc+Mathematics;UGC+NET+Qualified+for+CS;Python+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Haadikp&color=gradient&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Haadikp?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Haadikp&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Haadikp?label=Followers&style=social" alt="GitHub Followers" />
   <a href="https://haadikp.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat-square&logo=github" alt="Portfolio" />
   </a>
-</div>
-<br>
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <h3>
+    📊 Data Scientist | 🎓 MCA Graduate | 🧮 BSc Mathematics | 🏆 UGC NET Qualified for CS
+  </h3>
+  <h4>
+    Intern at Sabudh Foundation
+  </h4>
+
+  <p>
+    <strong>📍 Malappuram, Kerala, India</strong>
+  </p>
 </div>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="350" />
-        <br><br>
-        <h2>🎯 Professional Identity</h2>
-        <h3><strong>📊 Data Scientist | 🎓 MCA Graduate<br>🧮 BSc Mathematics | 🏆 UGC NET Qualified for CS</strong></h3>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-987a-9aa6e6b12478" width="350" />
-        <br><br>
-        <h2>🚀 Current Role</h2>
-        <h3><strong>Intern at Sabudh Foundation</strong></h3>
-        <h4>📍 Malappuram, Kerala, India</h4>
-      </td>
-    </tr>
-  </table>
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> About Me
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="600" />
-</div>
-<br>
-<div align="center">
-pythonclass HadiKP:
+
+---
+
+## 🚀 About Me
+
+```python
+class HadiKP:
     def __init__(self):
         self.name = "Hadi KP"
         self.role = "Aspiring Data Scientist"
         self.education = {
-            "current": "MCA Graduate (2025) - CGPA: 7.95/10 🏆",
-            "previous": "BSc Mathematics (2023) - CGPA: 7.1/10 📊"
+            "current": "MCA Graduate (2025) - CGPA: 7.95/10",
+            "previous": "BSc Mathematics (2023) - CGPA: 7.1/10"
         }
-        self.achievements = ["🏆 UGC NET Qualified for Assistant Professor"]
-        self.location = "📍 Malappuram, Kerala, India"
+        self.achievements = ["UGC NET Qualified for Assistant Professor"]
+        self.location = "Malappuram, Kerala, India"
         self.interests = [
-            "🔬 Data Science & Machine Learning",
-            "💻 Software Development",
-            "📊 Data Analytics",
-            "🐍 Python Programming"
+            "Data Science & Machine Learning",
+            "Software Development",
+            "Data Analytics",
+            "Python Programming"
         ]
-        self.motto = "Leveraging programming skills to develop data-driven solutions ✨"
+        self.motto = "Leveraging programming skills to develop data-driven solutions"
     
     def get_portfolio(self):
-        return "🌐 https://haadikp.github.io/Portfolio/"
+        return "https://haadikp.github.io/Portfolio/"
     
     def say_hi(self):
-        return "Thanks for visiting! Let's connect and build something amazing! 🚀"
+        return "Thanks for visiting my profile! Let's connect and build something amazing together!"
 
-# Initialize the journey
+# Initialize
 hadi = HadiKP()
 print(hadi.say_hi())
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+```
+
+---
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> What I Do
 <div align="center">
   <table>
