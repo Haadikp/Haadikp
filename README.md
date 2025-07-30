@@ -60,7 +60,8 @@ print(hadi.say_hi())
 ```
 
 ---
-## <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/data-science.gif" width="50"> What I Do
+
+<img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/data-science.gif" width="50"> What I Do
 <div align="center">
   <table>
     <tr>
