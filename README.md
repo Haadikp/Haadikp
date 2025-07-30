@@ -60,7 +60,7 @@ print(hadi.say_hi())
 ```
 
 ---
-<img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/data-science.gif" width="50"> What I Do
+## <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/data-science.gif" width="50"> What I Do
 <div align="center">
   <table>
     <tr>
@@ -100,7 +100,8 @@ print(hadi.say_hi())
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-<img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/projects.gif" width="50"> Featured Projects
+
+ ## <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/projects.gif" width="50"> Featured Projects
 <div align="center">
   <table>
     <tr>
@@ -134,7 +135,8 @@ print(hadi.say_hi())
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-<img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/skills.gif" width="50"> Technical Skills
+
+## <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/skills.gif" width="50"> Technical Skills
 <div align="center">
   <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/data-science-tools.gif" width="500" />
 </div>
@@ -174,7 +176,7 @@ print(hadi.say_hi())
 </div>
 
 
-<img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/education.gif" width="50"> Education & Certifications
+## <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/education.gif" width="50"> Education & Certifications
 <div align="center">
   <table>
     <tr>
