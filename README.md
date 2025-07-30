@@ -171,6 +171,8 @@ print(hadi.say_hi())
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
+
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"> Education & Certifications
 <div align="center">
   <table>
@@ -188,6 +190,7 @@ print(hadi.say_hi())
       🏆 <strong>CGPA: 7.1/10</strong></p>
     </div>
   </td>
+      
   <td align="center" width="50%">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="200" />
     <br>
@@ -195,10 +198,8 @@ print(hadi.say_hi())
     <div align="left" style="padding: 20px;">
       <h4>🐍 <strong>Python for Data Science, AI & Development</strong></h4>
       <p>IBM (Coursera) - <em>June 2024</em></p>
-      
       <h4>🗃️ <strong>Database Management System</strong></h4>
       <p>IIT Kharagpur (NPTEL) - <em>April 2024</em></p>
-      
       <h4>📊 <strong>Using Basic Formulas and Functions in Microsoft Excel</strong></h4>
       <p>Coursera - <em>December 2024</em></p>
     </div>
