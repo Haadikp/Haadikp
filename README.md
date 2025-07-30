@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Hadi KP!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;MCA+Graduate+%7C+BSc+Mathematics;UGC+NET+Qualified+for+CS;Python+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;MCA+Graduate+%7C+BSc+Mathematics;UGC+NET+Qualified+for+CS;Python+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -10,6 +10,7 @@
   <a href="https://haadikp.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat-square&logo=github" alt="Portfolio" />
   </a>
+</p>
 
 <div align="center">
   <h3>
@@ -59,36 +60,36 @@ print(hadi.say_hi())
 ```
 
 ---
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> What I Do
+<img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/data-science.gif" width="50"> What I Do
 <div align="center">
   <table>
     <tr>
       <td align="center" width="20%">
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="80" />
+        <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/data-analysis.gif" width="80" />
         <br><br>
         <h4>🔬 Data Science & Analytics</h4>
         <p>Passionate about extracting insights from data</p>
       </td>
       <td align="center" width="20%">
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="80" />
+        <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/software-dev.gif" width="80" />
         <br><br>
         <h4>💻 Software Engineer</h4>
         <p>Building scalable and efficient softwares</p>
       </td>
       <td align="center" width="20%">
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="80" />
+        <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/ml.gif" width="80" />
         <br><br>
         <h4>🤖 Machine Learning</h4>
         <p>Developing intelligent systems and models</p>
       </td>
       <td align="center" width="20%">
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-987a-9aa6e6b12478" width="80" />
+        <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/research.gif" width="80" />
         <br><br>
         <h4>🧠 Research</h4>
         <p>UGC NET qualified, interested in academic research</p>
       </td>
       <td align="center" width="20%">
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb2cd4e-3f7c-4bad-aa74-c27e1d531696" width="80" />
+        <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/learning.gif" width="80" />
         <br><br>
         <h4>📚 Continuous Learning</h4>
         <p>Always exploring new technologies and methodologies</p>
@@ -99,12 +100,12 @@ print(hadi.say_hi())
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Featured Projects
+<img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/projects.gif" width="50"> Featured Projects
 <div align="center">
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85d1c332-664c-454a-be09-37c4174bb587" width="400" />
+        <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/finance-app.gif" width="400" />
         <br><br>
         <h3>🏦 Personal Finance Management System</h3>
         <h4><strong>Tech Stack:</strong> Python Flask | HTML/CSS | MySQL</h4>
@@ -116,7 +117,7 @@ print(hadi.say_hi())
         </div>
       </td>
       <td width="50%" align="center">
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400" />
+        <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/image-colorization.gif" width="400" />
         <br><br>
         <h3>🎨 Image Colorization using GANs</h3>
         <h4><strong>Tech Stack:</strong> Python | PyTorch | Flask | NumPy | PIL | scikit-image</h4>
@@ -133,9 +134,9 @@ print(hadi.say_hi())
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Technical Skills
+<img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/skills.gif" width="50"> Technical Skills
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ee2b7ee7-68b8-47c0-8a63-f6ae9e8c5251" width="500" />
+  <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/data-science-tools.gif" width="500" />
 </div>
 <br>
 <div align="center">
@@ -173,12 +174,12 @@ print(hadi.say_hi())
 </div>
 
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"> Education & Certifications
+<img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/education.gif" width="50"> Education & Certifications
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c21d04b-a566-4399-9a4b-bd506b0b8516" width="200" />
+        <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/graduation.gif" width="200" />
         <br>
         <h2>📚 Education</h2>
         <div align="left" style="padding: 20px;">
@@ -192,7 +193,7 @@ print(hadi.say_hi())
   </td>
       
   <td align="center" width="50%">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="200" />
+    <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/certification.gif" width="200" />
     <br>
     <h2>🏆 Certifications</h2>
     <div align="left" style="padding: 20px;">
@@ -219,7 +220,7 @@ print(hadi.say_hi())
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haadikp&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haadikp&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt。下
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haadikp&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
@@ -313,7 +314,7 @@ print(hadi.say_hi())
   <h3>💫 "Data is not information, information is not knowledge, knowledge is not understanding, understanding is not wisdom." - Clifford Stoll</h3>
   
   <p>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+    <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/connect.gif" width="60"> 
     <em><b>I'm passionate about turning data into insights</b> and would love to collaborate on interesting projects! <b>Let's build something amazing together!</b> 🚀</em>
   </p>
 </div>
@@ -325,7 +326,4 @@ print(hadi.say_hi())
 </div>
 
 <div align="center">
-  
-
-
 </div>
