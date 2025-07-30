@@ -61,7 +61,7 @@ print(hadi.say_hi())
 
 ---
 
-<img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/data-science.gif?raw=true" width="50"> What I Do
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> What I Do
 <div align="center">
   <table>
     <tr>
