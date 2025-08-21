@@ -21,7 +21,7 @@
   </h4>
 
   <p>
-    <strong>📍 Malappuram, Kerala, India</strong>
+    <strong>📍 Kerala, India</strong>
   </p>
 </div>
 
@@ -39,7 +39,7 @@ class HadiKP:
             "previous": "BSc Mathematics (2023) - CGPA: 7.1/10"
         }
         self.achievements = ["UGC NET Qualified for Assistant Professor"]
-        self.location = "Malappuram, Kerala, India"
+        self.location = "Kerala, India"
         self.interests = [
             "Data Science & Machine Learning",
             "Software Development",
