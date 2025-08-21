@@ -71,12 +71,12 @@ print(hadi.say_hi())
         <h4>🔬 Data Science & Analytics</h4>
         <p>Passionate about extracting insights from data</p>
       </td>
-      <td align="center" width="20%">
+<!--       <td align="center" width="20%">
         <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/software-dev.gif" width="80" />
         <br><br>
         <h4>💻 Software Engineer</h4>
         <p>Building scalable and efficient softwares</p>
-      </td>
+      </td> -->
       <td align="center" width="20%">
         <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/ml.gif" width="80" />
         <br><br>
