@@ -107,7 +107,7 @@ print(hadi.say_hi())
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/finance-app.gif" width="400" />
+        <img src="images/visualization.png" width="400" />
         <br><br>
         <h3>🏦 Personal Finance Management System</h3>
         <h4><strong>Tech Stack:</strong> Python Flask | HTML/CSS | MySQL</h4>
@@ -119,7 +119,7 @@ print(hadi.say_hi())
         </div>
       </td>
       <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/image-colorization.gif" width="400" />
+        <img src="images/ImageColorization.png" width="400" />
         <br><br>
         <h3>🎨 Image Colorization using GANs</h3>
         <h4><strong>Tech Stack:</strong> Python | PyTorch | Flask | NumPy | PIL | scikit-image</h4>
