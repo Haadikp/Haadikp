@@ -66,7 +66,7 @@ print(hadi.say_hi())
   <table>
     <tr>
       <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/data-analysis.gif" width="80" />
+        <img src="images/datascience.webp" width="80" />
         <br><br>
         <h4>🔬 Data Science & Analytics</h4>
         <p>Passionate about extracting insights from data</p>
@@ -78,19 +78,19 @@ print(hadi.say_hi())
         <p>Building scalable and efficient softwares</p>
       </td> -->
       <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/ml.gif" width="80" />
+        <img src="images/machinelearning.jpg" width="80" />
         <br><br>
         <h4>🤖 Machine Learning</h4>
         <p>Developing intelligent systems and models</p>
       </td>
       <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/research.gif" width="80" />
+        <img src="images/research.jpg" width="80" />
         <br><br>
         <h4>🧠 Research</h4>
         <p>UGC NET qualified, interested in academic research</p>
       </td>
       <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/rajput-hemant/awesome-github-profile-readme/master/assets/learning.gif" width="80" />
+        <img src="images/continouslearning.jpg" width="80" />
         <br><br>
         <h4>📚 Continuous Learning</h4>
         <p>Always exploring new technologies and methodologies</p>
