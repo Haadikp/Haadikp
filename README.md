@@ -109,7 +109,7 @@ print(hadi.say_hi())
       <td width="50%" align="center">
         <img src="images/AIJobAssistant.png" width="400" />
         <br><br>
-        <h3>🤖 AI-Powered Career Assistant</h3>
+        <h3>🤖 AI-Powered Job Analyzer</h3>
         <h4><strong>Tech Stack:</strong> Python | LangChain | Groq (LLaMA 3.3 - 70B) | Gradio | ChromaDB | PyPDF | Pandas</h4>
         <div align="left">
           <br>
