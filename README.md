@@ -107,17 +107,19 @@ print(hadi.say_hi())
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="images/visualization.png" width="400" />
+        <img src="images/AIJobAssistant.png" width="400" />
         <br><br>
-        <h3>🏦 Personal Finance Management System</h3>
-        <h4><strong>Tech Stack:</strong> Python Flask | HTML/CSS | MySQL</h4>
+        <h3>🤖 AI-Powered Career Assistant</h3>
+        <h4><strong>Tech Stack:</strong> Python | LangChain | Groq (LLaMA 3.3 - 70B) | Gradio | ChromaDB | PyPDF | Pandas</h4>
         <div align="left">
           <br>
-          ✅ Developed a comprehensive web-based application for financial tracking<br>
-          ✅ Implemented secure user authentication and data management<br>
-          ✅ Created intuitive dashboard for expense tracking and budget management<br>
+          ✅ Extracts job details (role, skills, experience) directly from job posting URLs<br>
+          ✅ Parses resumes (PDF) to identify skills, education, and work history<br>
+          ✅ Performs skill matching with gap analysis and match scores (High, Medium, Low)<br>
+          ✅ Generates customized technical and HR interview questions tailored to the role<br>
+          ✅ Interactive Gradio dashboard for structured and user-friendly output visualization<br>
         </div>
-      </td>
+</td>
       <td width="50%" align="center">
         <img src="images/ImageColorization.png" width="400" />
         <br><br>
