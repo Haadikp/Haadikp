@@ -34,7 +34,7 @@
      Recommended resolution: 1280×720 px
      ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://placehold.co/900x500/0d1117/7c3aed?text=📹+Drop+your+portfolio+demo+GIF+here&font=roboto" width="90%" alt="Portfolio Demo — replace with actual GIF" style="border-radius:12px"/>
+<img src="images/Portfolio.png" width="90%" alt="Portfolio Demo — replace with actual GIF" style="border-radius:12px"/>
 
 <br/><sub><i>↑ <a href="https://haadikp.github.io/Portfolio/">Live site</a> · Hover over any card to experience the anti-gravity effect ✨</i></sub>
 
