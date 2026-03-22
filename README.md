@@ -113,20 +113,6 @@ class HadiKP:
 
 ---
 
-## ✨ Portfolio Features
-
-| Feature | Description |
-|:---|:---|
-| 🌌 **Anti-Gravity Cards** | Project cards & tech icons levitate using CSS `@keyframes`. Move your cursor near them — they repel and tilt in 3D via a `requestAnimationFrame` mouse-tracking loop |
-| 🎨 **Glassmorphism UI** | Every card uses `backdrop-filter: blur(12px)` + translucent borders on a deep `#060813` dark background |
-| 🔠 **Premium Typography** | `Syne` for display headings · `Inter` for body text · `JetBrains Mono` for code labels |
-| 📊 **Animated Skill Bars** | Progress bars animate into view on scroll via `IntersectionObserver` |
-| 🔭 **Scroll Spy Nav** | Active nav-link highlights automatically as you scroll between sections |
-| 📱 **Fully Responsive** | Single-column layout on mobile with a full-screen glass drawer for navigation |
-| ⚡ **Zero Build Step** | Pure HTML + Vanilla CSS + Vanilla JS — no bundler, no framework. Deploy anywhere instantly |
-| 🚀 **GitHub Pages Ready** | One push to `main` and it's live — no CI/CD configuration needed |
-
----
 
 ## 🏗️ Featured Projects
 
