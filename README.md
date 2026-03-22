@@ -34,7 +34,7 @@
      Recommended resolution: 1280×720 px
      ══════════════════════════════════════════════════════════════ -->
 
-<img src="images/Portfolio.png" width="90%" alt="Portfolio Demo — replace with actual GIF" style="border-radius:12px"/>
+<img src="images/Portfolio.gif" width="90%" alt="Portfolio Demo — replace with actual GIF" style="border-radius:12px"/>
 
 <br/><sub><i>↑ <a href="https://haadikp.github.io/Portfolio/">Live site</a> · Hover over any card to experience the anti-gravity effect ✨</i></sub>
 
